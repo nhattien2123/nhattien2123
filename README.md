@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Clerk, NextJS**
 
-💬 Trust your hard work
+💬 Trust your hard work. It's unlocking doors you can't see yet.
 
 ♟ Also, if anyone wants to exchange **chess with me**, please add me as a friend **[here](https://friend.chess.com/wKNVb)**
 
